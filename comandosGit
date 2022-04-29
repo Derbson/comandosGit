@@ -5,6 +5,8 @@ git add		guarda arquivo numa area de espera
 
 git commit - "titulo da commit"
 
+git status	status do arquivo
+
 CONFIGURAÇÕES INICIAIS:
 
 git config --global user.email "email_adress@server.com"
