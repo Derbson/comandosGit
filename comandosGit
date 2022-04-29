@@ -1,0 +1,14 @@
+
+git init	criar um repositório local
+
+git add		guarda arquivo numa area de espera
+
+git commit - "titulo da commit"
+
+CONFIGURAÇÕES INICIAIS:
+
+git config --global user.email "email_adress@server.com"
+
+git config --global user.name	"nome de usuário do github"
+
+
