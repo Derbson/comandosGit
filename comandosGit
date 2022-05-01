@@ -9,6 +9,8 @@ git status  >	status do arquivo
 
 CONFIGURAÇÕES INICIAIS:
 
+git config --list
+
 git config --global user.email "email_adress@server.com"
 
 git config --global user.name	"nome de usuário do github"
