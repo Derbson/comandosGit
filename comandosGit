@@ -7,6 +7,8 @@ git commit -m "titulo da commit"  >  adicinar arquivo ao repositório local
 
 git status  >	status do arquivo
 
+git remote add origin https://github.com/
+
 CONFIGURAÇÕES INICIAIS:
 
 git config --list
