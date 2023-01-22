@@ -1,20 +1,20 @@
 
-git init    >    criar um repositório local
+git init --bare   >    criar um repositÃ³rio local
 
 git add	    >    guarda arquivo numa area de espera
 
-git commit -m "titulo da commit"  >  adicinar arquivo ao repositório local
+git commit -m "titulo da commit"  >  adicinar arquivo ao repositÃ³rio local
 
 git status  >	status do arquivo
 
 git remote add origin https://github.com/
 
-CONFIGURAÇÕES INICIAIS:
+CONFIGURAÃ‡Ã•ES INICIAIS:
 
 git config --list
 
 git config --global user.email "email_adress@server.com"
 
-git config --global user.name	"nome de usuário do github"
+git config --global user.name	"nome de usuÃ¡rio do github"
 
 
